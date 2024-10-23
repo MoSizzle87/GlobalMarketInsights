@@ -1,0 +1,86 @@
+{
+  "S&P 500": {
+    "symbol": "^GSPC",
+    "country": "USA"
+  },
+  "NASDAQ 100": {
+    "symbol": "^NDX",
+    "country": "USA"
+  },
+  "Dow Jones Industrial Average": {
+    "symbol": "^DJI",
+    "country": "USA"
+  },
+  "TSX Composite": {
+    "symbol": "^GSPTSE",
+    "country": "Canada"
+  },
+  "DAX 30": {
+    "symbol": "^GDAXI",
+    "country": "Germany"
+  },
+  "CAC 40": {
+    "symbol": "^FCHI",
+    "country": "France"
+  },
+  "FTSE 100": {
+    "symbol": "^FTSE",
+    "country": "UK"
+  },
+  "EURO STOXX 50": {
+    "symbol": "^STOXX50E",
+    "country": "Euro Zone"
+  },
+  "Nikkei 225": {
+    "symbol": "^N225",
+    "country": "Japan"
+  },
+  "Hang Seng": {
+    "symbol": "^HSI",
+    "country": "Hong Kong"
+  },
+  "Shanghai Composite": {
+    "symbol": "000001.SS",
+    "country": "China"
+  },
+  "Kospi": {
+    "symbol": "^KS11",
+    "country": "South Korea"
+  },
+  "S&P/ASX 200": {
+    "symbol": "^AXJO",
+    "country": "Australia"
+  },
+  "Bovespa": {
+    "symbol": "^BVSP",
+    "country": "Brazil"
+  },
+  "IPC": {
+    "symbol": "^MXX",
+    "country": "Mexico"
+  },
+  "Sensex": {
+    "symbol": "^BSESN",
+    "country": "India"
+  },
+  "Taiex": {
+    "symbol": "^TWII",
+    "country": "Taiwan"
+  },
+  "IBEX 35": {
+    "symbol": "^IBEX",
+    "country": "Spain"
+  },
+  "FTSE/JSE Top 40": {
+    "symbol": "JTOPI.JO",
+    "country": "South Africa"
+  },
+  "Straits Times Index": {
+    "symbol": "^STI",
+    "country": "Singapore"
+  },
+  "Tadawul All Share Index": {
+    "symbol": "^TASI",
+    "country": "Saudi Arabia"
+  }
+}
